@@ -1,0 +1,46 @@
+/* Our CSS file. */
+
+
+.container, .content {
+    width: 100%;
+    height: 100%;
+    }
+    
+.division1 
+{        
+    font-size: 2.5 em;
+    background-color: #F2F2F2;
+    width: 100%;
+}
+.division2
+{
+    max-height: 55vh;
+    height: 40vh;
+    display: inline-block;
+    width: 49%;
+}
+.bottom 
+{
+    max-height: 55vh;
+    height: 40vh;
+}
+iframe 
+{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+button 
+{
+    height: 5vh;
+    width: 8vw;
+    font-size: 17px;
+    background-color: black;
+    color: white;
+}
+.top 
+{
+    text-align: center;
+    max-height: 55vh;
+    height: 40vh;
+} 
